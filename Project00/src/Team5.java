@@ -17,6 +17,8 @@ import Project00.TeamMember;
         public void createTeamMembers()
         {
             members.add(new Project00.TeamMember("Evan Toyberg"));
+            members.add(new Project00.TeamMember("Kyle Smilon"));
+
 
         }
     }
