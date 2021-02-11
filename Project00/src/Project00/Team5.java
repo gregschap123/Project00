@@ -18,6 +18,7 @@ import Project00.TeamMember;
         {
             members.add(new Project00.TeamMember("Evan Toyberg"));
             members.add(new Project00.TeamMember("Kyle Smilon"));
+            members.add(new Project00.TeamMember("Haris Naveed"));
 
 
         }
