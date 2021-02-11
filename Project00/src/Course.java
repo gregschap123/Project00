@@ -1,8 +1,11 @@
 package Project00;
 
 import java.util.ArrayList;
-import Project00.TeamCool;
+
 import Project00.Member;
+import Project00.Team;
+import Project00.TeamCool;
+import Project00.TeamNice;
 
 public class Course
 {
