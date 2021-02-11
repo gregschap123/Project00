@@ -19,6 +19,7 @@ public class Team02 extends Team
     {
         members.add(new TeamMember("Eric Gorski"));
         members.add(new TeamMember("Shane Houghton"));
+        members.add(new TeamMember("Kimberly Wolf"));
         // create a new member class for each team member
         // and add it to the team members list
     }
