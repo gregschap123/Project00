@@ -16,7 +16,7 @@ public class Team01 extends Team {
     public void createTeamMembers()
     {
         members.add(new TeamMember("Mark Morykan"));
-        members.add(new TeamMember("Janice Jones"));
+        members.add(new TeamMember("Kyle Schaedler"));
         members.add(new TeamMember("Harold Hero"));
         // create a new member class for each team member
         // and add it to the team members list
