@@ -1,8 +1,6 @@
 package Project00;
 
 import java.util.ArrayList;
-import Project00.TeamCool;
-import Project00.Member;
 
 public class Course
 {
@@ -27,6 +25,7 @@ public class Course
 
     public void createTeams()
     {
+        teams.add(new Team5("Team5"));
         teams.add(new TeamCool("TeamCool"));
         teams.add(new TeamNice("TeamNice"));
         // create each new team and add to team list;
