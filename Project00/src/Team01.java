@@ -22,4 +22,3 @@ public class Team01 extends Team {
         // and add it to the team members list
     }
 }
-}
