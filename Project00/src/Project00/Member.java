@@ -9,7 +9,7 @@ public class Member {
         memberName = name;
     }
 
-    public String getMemberName() {
+    public String getMemberName()  {
         return memberName;
     }
 
